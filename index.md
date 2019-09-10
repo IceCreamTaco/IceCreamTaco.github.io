@@ -5,7 +5,7 @@
   <body>
     <h1>Website for everything I make</h1>
     <h2>For better or worse</h2>
-    <p>There will be something here when I'm not lazy</p>
+    <p>There is now actually something here</p>
     <a href="IceCreamTaco.github.io/about/index.html"> About this site </a> <br>
     <a href="IceCreamTaco.github.io/pacman/index.html"> Pacman </a>
 
