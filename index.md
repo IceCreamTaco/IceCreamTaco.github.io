@@ -6,7 +6,7 @@
     <h1>Website for everything I make</h1>
     <h2>For better or worse</h2>
     <p>There will be something here when I'm not lazy</p>
-    <a href="IceCreamTaco.github.io/about"> About this site </a>
+    <a href="IceCreamTaco.github.io/about/index.html"> About this site </a>
 
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
