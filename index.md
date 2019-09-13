@@ -1,6 +1,6 @@
 <html>
   <head>
-   
+   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
   </head>
   <body>
     <h1>Website for everything I make</h1>
@@ -15,11 +15,10 @@
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
-      "background": "#110164"
+      "background": "#0e2a64"
     },
     "button": {
-      "background": "#ffc0cb",
-      "text": "#000000"
+      "background": "#ffc0cb"
     }
   },
   "theme": "classic",
