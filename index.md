@@ -10,7 +10,7 @@
     <a href="IceCreamTaco.github.io/Pacman/"> Pacman </a> <br style = "lineheight:2;"><br>
     <a href="IceCreamTaco.github.io/suggest/index.html"> Suggest something </a> <br style = "lineheight:2;"><br>
      <a href="IceCreamTaco.github.io/Help/index.html"> Help Section! </a> <br style = "lineheight:2;"><br>
-    <a href="./ASGORE/"> Asgore </a>
+    <a href="./ASGORE"> Asgore </a>
     
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
