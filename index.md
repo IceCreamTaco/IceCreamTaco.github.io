@@ -11,6 +11,7 @@
     <a href="beeleean.github.io/suggest/index.html"> Suggest something </a> <br style = "lineheight:2;"><br>
     <a href="beeleean.github.io/Help/index.html"> Help Section! </a> <br style = "lineheight:2;"><br>
     <a href="beeleean.github.io/crab/index.html"> Crab </a> 
+    <a href="https://cheesetycoon.freeforums.net"> Fun Forums! </a>
     
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
