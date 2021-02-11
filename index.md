@@ -6,11 +6,11 @@
     <h1>Website for everything I make</h1>
     <h2>For better or worse</h2>
     <p>There is now actually something here</p>
-    <a href="IceCreamTaco.github.io/about/index.html"> About this site </a> <br style = "lineheight:2;"><br>
-    <a href="IceCreamTaco.github.io/Pacman/"> Pacman </a> <br style = "lineheight:2;"><br>
-    <a href="IceCreamTaco.github.io/suggest/index.html"> Suggest something </a> <br style = "lineheight:2;"><br>
-    <a href="IceCreamTaco.github.io/Help/index.html"> Help Section! </a> <br style = "lineheight:2;"><br>
-    <a href="IceCreamTaco.github.io/crab/index.html"> Crab </a> 
+    <a href="Beeleean.github.io/about/index.html"> About this site </a> <br style = "lineheight:2;"><br>
+    <a href="Beeleean.github.io/Pacman/"> Pacman </a> <br style = "lineheight:2;"><br>
+    <a href="Beeleean.github.io/suggest/index.html"> Suggest something </a> <br style = "lineheight:2;"><br>
+    <a href="Beeleean.github.io/Help/index.html"> Help Section! </a> <br style = "lineheight:2;"><br>
+    <a href="Beeleean.github.io/crab/index.html"> Crab </a> 
     
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
